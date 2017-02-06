@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=RealVNC Viewer
+Exec=realvnc
+Icon=realvnc
+Categories=Utility;System;
