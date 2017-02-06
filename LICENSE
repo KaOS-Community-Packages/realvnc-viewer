@@ -1,98 +1,209 @@
-
-VNC® VIEWER PLUS INSTALLER END USER LICENCE AGREEMENT 
-THIS AGREEMENT CONSISTS OF TWO PARTS: 
-A.  VNC VIEWER PLUS END USER LICENCE AGREEMENT 
-B.  VNC VIEWER PLUS END USER SUPPORT AGREEMENT 
-PLEASE READ ALL PARTS CAREFULLY.  IN ORDER TO INSTALL THE VNC 
-VIEWER PLUS SOFTWARE ("THE SOFTWARE"), YOU MUST FIRST ACCEPT 
-THE TERMS AND CONDITIONS OF THESE AGREEMENTS.  BY USING ALL OR ANY 
-PORTION OF THE SOFTWARE YOU ACCEPT ALL THE TERMS AND CONDITIONS OF 
-THESE AGREEMENTS. IF YOU DO NOT AGREE THEN DO NOT INSTALL THE 
-SOFTWARE.  BY INSTALLING ANY UPDATED VERSION OF THE SOFTWARE WHICH MAY 
-BE MADE AVAILABLE, YOU ACCEPT THAT THE TERMS OF THIS AGREEMENT APPLY 
-TO SUCH UPDATED SOFTWARE. 
-A.  VNC VIEWER PLUS END USER LICENCE AGREEMENT 
-PLEASE READ THIS AGREEMENT CAREFULLY. IN ORDER TO USE THE VNC VIEWER 
-PLUS SOFTWARE ("THE SOFTWARE"), YOU MUST FIRST ACCEPT THE TERMS AND 
-CONDITIONS OF THIS AGREEMENT.  BY USING ALL OR ANY PORTION OF THE 
-SOFTWARE YOU ACCEPT ALL THE TERMS AND CONDITIONS OF THIS AGREEMENT. 
-IF YOU DO NOT AGREE THEN DO NOT USE THE SOFTWARE.  BY USING ANY 
-UPDATED VERSION OF THE SOFTWARE WHICH MAY BE MADE AVAILABLE, 
-YOU ACCEPT THAT THE TERMS OF THIS AGREEMENT APPLY TO SUCH UPDATED 
-SOFTWARE. 
-In this Agreement "Host" means the computer on which the Software is 
-to be installed. 
-The Software is to be used in conjunction with a VNC Viewer Plus  
-license for each Host or a licensed copy of VNC Server Enterprise  
-Edition or of any other RealVNC Server product explicitly stated to  
-qualify for use with the Software ("the Server"). 
-1. Intellectual Property Rights 
-   The Software, its structure and algorithms, and the Information are 
-   protected by copyright and other intellectual property laws, and 
-   all intellectual property rights in them belong to RealVNC Limited 
-   ("RealVNC"), or are licensed to it.  You may not reproduce, 
-   publish, transmit, modify, create derivative works from, or 
-   publicly display the Software or part thereof.  Copying or storing 
-   or using the Software other than as permitted in Clause 2 is 
-   expressly prohibited unless you obtain prior written permission 
-   from RealVNC. 
-2. Permitted and Prohibited Uses 
-2.1 During the term of this Agreement and as long as you comply with 
-    the terms of this agreement, you may use the Software for your 
-    personal use or for the internal use of your business only with 
-    the Server.  You are expressly prohibited from distributing the 
-    Software in any format, in whole or in part, for sale, or for 
-    commercial use or for any unlawful purpose. 
-2.2 You may not rent, lease or otherwise transfer the Software or 
-    allow it to be copied.  Unless permitted by law, you may not 
-    reverse engineer, decompile or disassemble the Software. 
-3. Limited Warranty 
-3.1 RealVNC warrants to the original licensee that the Software will 
-    perform substantially in accordance with any documentation 
-    provided for it for 90 days following first use when used on Hosts 
-    meeting the minimum hardware and software requirements specified 
-    on the RealVNC website 
-3.2 This limited Warranty applies only if any problem is reported to 
-    RealVNC during the above warranty period.  It is void if the 
-    failure of the Software is the result of accident, abuse, 
-    misapplication or inappropriate use of the Software or use with 
-    Hosts not meeting the minimum hardware and software requirements 
-    specified on the RealVNC website. 
-3.3 If the Software does not perform according to the above warranty, 
-    then you must make a warranty claim in writing to RealVNC and your 
-    exclusive remedy will be for RealVNC to replace the Software. 
-4. Limitation on Liability 
-   EXCEPT FOR THE EXPRESS WARRANTIES GIVEN IN THIS AGREEMENT, TO THE 
-   EXTENT PERMITTED BY LAW, REALVNC DISCLAIMS ALL WARRANTIES ON THE 
-   SOFTWARE, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO 
-   THE IMPLIED WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT OF 
-   THIRD PARTY RIGHTS AND FITNESS FOR PARTICULAR PURPOSE. 
-   TO THE EXTENT PERMITTED BY LAW REALVNC SHALL NOT BE LIABLE FOR ANY 
-   DIRECT, CONSEQUENTIAL INDIRECT OR INCIDENTAL LOSS OR DAMAGES 
-   WHATSOEVER INCLUDING LOST PROFITS OR SAVINGS ARISING OUT OF THE USE 
-   OF THE SOFTWARE, RELIANCE ON THE DATA PRODUCED OR INABILITY TO USE 
-   THE SOFTWARE (INCLUDING LOSS OR DAMAGE TO YOUR (OR ANY OTHER 
-   PERSON'S) DATA OR COMPUTER PROGRAMS) EVEN IF REALVNC HAS BEEN 
-   ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
-   NOTHING IN THIS AGREEMENT LIMITS LIABILITY FOR DEATH OR PERSONAL 
-   INJURY ARISING FROM A PARTY'S NEGLIGENCE OR FROM FRAUDULENT 
-   MISREPRESENTATION ON THE PART OF A PARTY. 
-5. Export Control 
-   The United States and other countries control the export of 
-   Software and information. You are responsible for compliance with 
-   the laws of your local jurisdiction regarding the import, export or 
-   re-export of the Software, and agree to comply with such 
-   restrictions and not to export or re-export the Software where this 
-   is prohibited.  By downloading the Software, you are agreeing that 
-   you are not a person or entity to which such export is 
-   prohibited. RealVNC is United Kingdom Limited company. 
-6. Term and Termination 
-   This licence shall continue in force unless and until it is 
-   terminated by RealVNC by e-mail notice to you, if it reasonably 
-   believes that you have breached a material term of this Agreement. 
-   In the case above, you must delete and destroy all copies of the 
-   Software in your possession and control and overwrite any 
-   electronic memory or storage locations containing the Software. 
-7. General Terms 
-7.1 The construction, validity and performance of this Agreement shall 
-    be governed in all respects by English law, and the Parties agree 
+VNC® VIEWER PLUS INSTALLER END USER LICENCE AGREEMENT
+THIS AGREEMENT CONSISTS OF TWO PARTS:
+A.  VNC VIEWER PLUS END USER LICENCE AGREEMENT
+B.  VNC VIEWER PLUS END USER SUPPORT AGREEMENT
+PLEASE READ ALL PARTS CAREFULLY. IN ORDER TO INSTALL THE VNC
+VIEWER PLUS SOFTWARE ("THE SOFTWARE"), YOU MUST FIRST ACCEPT
+THE TERMS AND CONDITIONS OF THESE AGREEMENTS. BY USING ALL OR ANY
+PORTION OF THE SOFTWARE YOU ACCEPT ALL THE TERMS AND CONDITIONS OF
+THESE AGREEMENTS. IF YOU DO NOT AGREE THEN DO NOT INSTALL THE
+SOFTWARE. BY INSTALLING ANY UPDATED VERSION OF THE SOFTWARE WHICH MAY
+BE MADE AVAILABLE, YOU ACCEPT THAT THE TERMS OF THIS AGREEMENT APPLY
+TO SUCH UPDATED SOFTWARE.
+A.  VNC VIEWER PLUS END USER LICENCE AGREEMENT
+PLEASE READ THIS AGREEMENT CAREFULLY. IN ORDER TO USE THE VNC VIEWER
+PLUS SOFTWARE ("THE SOFTWARE"), YOU MUST FIRST ACCEPT THE TERMS AND
+CONDITIONS OF THIS AGREEMENT. BY USING ALL OR ANY PORTION OF THE
+SOFTWARE YOU ACCEPT ALL THE TERMS AND CONDITIONS OF THIS AGREEMENT.
+IF YOU DO NOT AGREE THEN DO NOT USE THE SOFTWARE. BY USING ANY
+UPDATED VERSION OF THE SOFTWARE WHICH MAY BE MADE AVAILABLE,
+YOU ACCEPT THAT THE TERMS OF THIS AGREEMENT APPLY TO SUCH UPDATED
+SOFTWARE.
+In this Agreement "Host" means the computer on which the Software is
+to be installed.
+The Software is to be used in conjunction with a VNC Viewer Plus
+license for each Host or a licensed copy of VNC Server Enterprise
+Edition or of any other RealVNC Server product explicitly stated to
+qualify for use with the Software ("the Server").
+1. Intellectual Property Rights
+   The Software, its structure and algorithms, and the Information are
+   protected by copyright and other intellectual property laws, and
+   all intellectual property rights in them belong to RealVNC Limited
+   ("RealVNC"), or are licensed to it. You may not reproduce,
+   publish, transmit, modify, create derivative works from, or
+   publicly display the Software or part thereof. Copying or storing
+   or using the Software other than as permitted in Clause 2 is
+   expressly prohibited unless you obtain prior written permission
+   from RealVNC.
+2. Permitted and Prohibited Uses
+2.1 During the term of this Agreement and as long as you comply with
+    the terms of this agreement, you may use the Software for your
+    personal use or for the internal use of your business only with
+    the Server. You are expressly prohibited from distributing the
+    Software in any format, in whole or in part, for sale, or for
+    commercial use or for any unlawful purpose.
+2.2 You may not rent, lease or otherwise transfer the Software or
+    allow it to be copied. Unless permitted by law, you may not
+    reverse engineer, decompile or disassemble the Software.
+3. Limited Warranty
+3.1 RealVNC warrants to the original licensee that the Software will
+    perform substantially in accordance with any documentation
+    provided for it for 90 days following first use when used on Hosts
+    meeting the minimum hardware and software requirements specified
+    on the RealVNC website
+3.2 This limited Warranty applies only if any problem is reported to
+    RealVNC during the above warranty period. It is void if the
+    failure of the Software is the result of accident, abuse,
+    misapplication or inappropriate use of the Software or use with
+    Hosts not meeting the minimum hardware and software requirements
+    specified on the RealVNC website.
+3.3 If the Software does not perform according to the above warranty,
+    then you must make a warranty claim in writing to RealVNC and your
+    exclusive remedy will be for RealVNC to replace the Software.
+4. Limitation on Liability
+   EXCEPT FOR THE EXPRESS WARRANTIES GIVEN IN THIS AGREEMENT, TO THE
+   EXTENT PERMITTED BY LAW, REALVNC DISCLAIMS ALL WARRANTIES ON THE
+   SOFTWARE, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+   THE IMPLIED WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT OF
+   THIRD PARTY RIGHTS AND FITNESS FOR PARTICULAR PURPOSE.
+   TO THE EXTENT PERMITTED BY LAW REALVNC SHALL NOT BE LIABLE FOR ANY
+   DIRECT, CONSEQUENTIAL INDIRECT OR INCIDENTAL LOSS OR DAMAGES
+   WHATSOEVER INCLUDING LOST PROFITS OR SAVINGS ARISING OUT OF THE USE
+   OF THE SOFTWARE, RELIANCE ON THE DATA PRODUCED OR INABILITY TO USE
+   THE SOFTWARE (INCLUDING LOSS OR DAMAGE TO YOUR (OR ANY OTHER
+   PERSON'S) DATA OR COMPUTER PROGRAMS) EVEN IF REALVNC HAS BEEN
+   ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+   NOTHING IN THIS AGREEMENT LIMITS LIABILITY FOR DEATH OR PERSONAL
+   INJURY ARISING FROM A PARTY'S NEGLIGENCE OR FROM FRAUDULENT
+   MISREPRESENTATION ON THE PART OF A PARTY.
+5. Export Control
+   The United States and other countries control the export of
+   Software and information. You are responsible for compliance with
+   the laws of your local jurisdiction regarding the import, export or
+   re-export of the Software, and agree to comply with such
+   restrictions and not to export or re-export the Software where this
+   is prohibited. By downloading the Software, you are agreeing that
+   you are not a person or entity to which such export is
+   prohibited. RealVNC is United Kingdom Limited company.
+6. Term and Termination
+   This licence shall continue in force unless and until it is
+   terminated by RealVNC by e-mail notice to you, if it reasonably
+   believes that you have breached a material term of this Agreement.
+   In the case above, you must delete and destroy all copies of the
+   Software in your possession and control and overwrite any
+   electronic memory or storage locations containing the Software.
+7. General Terms
+7.1 The construction, validity and performance of this Agreement shall
+    be governed in all respects by English law, and the Parties agree
+    to submit to the non- exclusive jurisdiction of the English
+    courts.
+7.2 If any provision of this agreement is found to be invalid by any
+    court having competent jurisdiction, the invalidity of such
+    provision shall not affect the validity of the remaining
+    provisions of this agreement, which shall remain in full force and
+    effect.
+7.3 Despite anything else contained in this Agreement, neither party
+    will be liable for any delay in performing its obligations under
+    this Agreement if that delay is caused by circumstances beyond its
+    reasonable control (including, without limitation, any delay
+    caused by an act or omission of the other party) and the party
+    affected will be entitled to a reasonable extension of time for
+    the performance of its obligations.
+7.4 No waiver of any term of this agreement shall be deemed a further
+    or continuing waiver of such term or any other term.
+7.5 You may not assign, subcontract, sublicense or otherwise transfer
+    any of your rights or obligations under this Agreement.
+7.6 This agreement constitutes the entire agreement between you and
+    RealVNC.
+B.  VNC VIEWER PLUS END USER SUPPORT AGREEMENT
+PLEASE READ THIS AGREEMENT CAREFULLY. IN ORDER TO RETAIN THE SUPPORT
+SERVICES OF REALVNC FOR USE OF VNC VIEWER PLUS ("the
+SOFTWARE"), YOU MUST FIRST ACCEPT THE TERMS AND CONDITIONS OF THIS
+AGREEMENT. BY USING ANY UPDATED VERSION OF THE SOFTWARE WHICH MAY BE
+MADE AVAILABLE, YOU ACCEPT THAT THE TERMS OF THIS AGREEMENT APPLY TO
+SUPPORT OF SUCH UPDATED SOFTWARE.
+1. Trial Software
+   This agreement is not applicable where a Trial licence to the
+   Software is in use.
+2. Maintenance and Services
+   During the term of this Agreement, provided all relevant Support
+   Fees (set out in the Website) which are due and owing have been
+   paid, RealVNC will provide the following services ("the Services")
+   to you in relation to the Software in accordance with the terms and
+   conditions of this Agreement:-
+2.1 Provided you promptly notify RealVNC of any material defect in the
+    Software (being any corrupt download, CD or licence key), RealVNC
+    shall, subject to the following provisions, use its reasonable
+    endeavours to correct the problem and provide a corrected version
+    as soon as practicable after being so notified.
+2.2 Updates or improvements to the Software published by RealVNC shall
+    be made available on the RealVNC website.
+2.3 The Services do not include the correction of any defects due to:-
+2.3.1 any combination or inclusion of the Software with or in any
+      computer program, equipment or devices not on the approved list
+      on the RealVNC website;
+2.3.2 you not giving RealVNC a sufficiently detailed description of
+      the defect to enable RealVNC to identify the defect and to
+      perform the Services;
+2.3.3 any improper or unauthorised use or operation of the Software.
+2.4 If a defect cannot be resolved in a reasonable time your exclusive
+    remedy will be for RealVNC to either, at its sole option, replace
+    the Software or refund the licence fee paid for the Software.
+3. Fees
+3.1 You must pay all relevant Support Fees which are set out in the
+    Website when due in order to have the benefit of these support
+    services.
+3.2 All fees, expenses or other sums payable under this Agreement are
+    exclusive of any applicable value added tax or other applicable
+    taxes or duties for which you shall be additionally liable.
+3.3 If any sum payable to RealVNC is not paid within 14 days after the
+    due date RealVNC may suspend performance of its obligations and/or
+    charge interest on a daily basis at the rate of 4% above the
+    Barclays Bank Base Rate from time to time in force, compounded
+    quarterly, from the date for payment of that sum to the date of
+    actual payment.
+4. Limitation on Liability
+   TO THE EXTENT PERMITTED BY LAW, REALVNC DISCLAIMS ALL WARRANTIES ON
+   THE SOFTWARE OR THE SERVICES, EITHER EXPRESS OR IMPLIED, INCLUDING
+   BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY,
+   NON-INFRINGEMENT OF THIRD PARTY RIGHTS AND FITNESS FOR PARTICULAR
+   PURPOSE.
+   TO THE EXTENT PERMITTED BY LAW REALVNC SHALL NOT BE LIABLE FOR ANY
+   DIRECT, CONSEQUENTIAL INDIRECT OR INCIDENTAL LOSS OR DAMAGES
+   WHATSOEVER INCLUDING LOST PROFITS OR SAVINGS ARISING OUT OF THE
+   SUPPORT SERVICES OR USE OF THE SOFTWARE, RELIANCE ON THE DATA
+   PRODUCED OR INABILITY TO USE THE SOFTWARE (INCLUDING LOSS OR DAMAGE
+   TO YOUR OR ANY OTHER PERSON'S DATA OR COMPUTER PROGRAMS) EVEN IF
+   REALVNC HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+   NOTHING IN THIS AGREEMENT LIMITS LIABILITY FOR DEATH OR PERSONAL
+   INJURY ARISING FROM A PARTY'S NEGLIGENCE OR FROM FRAUDULENT
+   MISREPRESENTATION ON THE PART OF A PARTY.
+5. Term and Termination
+   This support service shall continue in force for a period of twelve
+   months, and may be continued by payment of the relevant Support
+   Fees set out in the website. This agreement is automatically
+   terminated if you fail to pay the Support fees when due.
+6. General Terms
+6.1 The construction, validity and performance of this Agreement shall
+    be governed in all respects by English law, and the Parties agree
+    to submit to the non-exclusive jurisdiction of the English courts.
+6.2 If any provision of this agreement is found to be invalid by any
+    court having competent jurisdiction, the invalidity of such
+    provision shall not affect the validity of the remaining
+    provisions of this agreement, which shall remain in full force and
+    effect.
+6.3 Despite anything else contained in this Agreement, neither party
+    will be liable for any delay in performing its obligations under
+    this Agreement if that delay is caused by circumstances beyond its
+    reasonable control (including, without limitation, any delay
+    caused by an act or omission of the other party) and the party
+    affected will be entitled to a reasonable extension of time for
+    the performance of its obligations.
+6.4 No waiver of any term of this agreement shall be deemed a further
+    or continuing waiver of such term or any other them.
+6.5 You may not assign, subcontract, sublicense or otherwise transfer
+    any of your rights or obligations under this Agreement.
+6.6 This agreement constitutes the entire agreement between you and
+    RealVNC in relation to support services.
+VNC is a registered trademark of RealVNC Ltd. in the U.S. and in other
+countries.

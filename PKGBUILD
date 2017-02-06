@@ -1,6 +1,6 @@
 pkgname=realvnc-viewer
 pkgver=6.0.1
-pkgrel=1
+pkgrel=2
 pkgdesc='VNC remote desktop viewer from RealVNC'
 arch=('x86_64')
 url='https://www.realvnc.com/'
@@ -27,7 +27,7 @@ md5sums=(
     '64d9497e2439687b791700ec09460d4f'
     'aaaf0206fd2506594fa399ca1f7fc38d'
     'c3dee43d3158eb5b0ccc5ab6d295dda6'
-    '3d4ab7000b55918b1c2e30c42d317ad9'
+    '0b35fdc9f678ec79d1200d1248809c5c'
 )
 options=(!strip)
 
